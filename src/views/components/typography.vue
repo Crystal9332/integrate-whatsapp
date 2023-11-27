@@ -6,8 +6,7 @@
         available, for when you want to match the font styling of a heading.
       </div>
       <div
-        class="bg-slate-100 dark:bg-slate-700 text-xs text-slate-600 dark:text-slate-300 flex justify-between py-3 px-6 items-center -mx-6 mt-6 mb-6 font-semibold"
-      >
+        class="bg-slate-100 dark:bg-slate-700 text-xs text-slate-600 dark:text-slate-300 flex justify-between py-3 px-6 items-center -mx-6 mt-6 mb-6 font-semibold">
         <span>PREVIEW</span>
         <span>FONT SIZE</span>
       </div>
@@ -45,8 +44,7 @@
         .font-weight-normal for light heading and .
       </div>
       <div
-        class="bg-slate-100 dark:bg-slate-700 text-xs text-slate-600 dark:text-slate-300 flex justify-between py-3 px-6 items-center -mx-6 mt-6 mb-6 font-semibold"
-      >
+        class="bg-slate-100 dark:bg-slate-700 text-xs text-slate-600 dark:text-slate-300 flex justify-between py-3 px-6 items-center -mx-6 mt-6 mb-6 font-semibold">
         <span>LIGHT HEADINGS</span>
         <span>BOLD HEADINGS</span>
       </div>
@@ -84,36 +82,24 @@
           <table class="w-full border-collapse border-none text-left">
             <tr>
               <th class="text-xs font-semibold bg-slate-100 dark:bg-slate-700">
-                <span class="px-6 py-5 block text-slate-600 dark:text-slate-300"
-                  >Type</span
-                >
+                <span class="px-6 py-5 block text-slate-600 dark:text-slate-300">Type</span>
               </th>
               <th class="text-xs font-semibold bg-slate-100 dark:bg-slate-700">
-                <span class="px-6 py-5 block text-slate-600 dark:text-slate-300"
-                  >Class</span
-                >
+                <span class="px-6 py-5 block text-slate-600 dark:text-slate-300">Class</span>
               </th>
               <th class="text-xs font-semibold bg-slate-100 dark:bg-slate-700">
-                <span class="px-6 py-5 block text-slate-600 dark:text-slate-300"
-                  >Text</span
-                >
+                <span class="px-6 py-5 block text-slate-600 dark:text-slate-300">Text</span>
               </th>
             </tr>
 
             <tr class="border-b border-slate-100 dark:border-slate-700">
-              <td
-                class="text-slate-900 dark:text-slate-300 text-left px-6 py-4 text-lg font-medium"
-              >
+              <td class="text-slate-900 dark:text-slate-300 text-left px-6 py-4 text-lg font-medium">
                 Title
               </td>
-              <td
-                class="text-slate-900 dark:text-slate-300 text-lg font-medium text-left t px-6 py-4"
-              >
+              <td class="text-slate-900 dark:text-slate-300 text-lg font-medium text-left t px-6 py-4">
                 text-lg
               </td>
-              <td
-                class="text-slate-900 dark:text-slate-300 text-lg font-medium text-left px-6 py-4"
-              >
+              <td class="text-slate-900 dark:text-slate-300 text-lg font-medium text-left px-6 py-4">
                 <div>
                   Cupcake ipsum dolor sit amet fruitcake donut chocolate.
                 </div>
@@ -123,19 +109,13 @@
               </td>
             </tr>
             <tr class="border-b border-slate-100 dark:border-slate-700">
-              <td
-                class="text-slate-700 dark:text-slate-300 text-left px-6 py-4 text-base font-normal"
-              >
+              <td class="text-slate-700 dark:text-slate-300 text-left px-6 py-4 text-base font-normal">
                 Sub Title
               </td>
-              <td
-                class="text-slate-700 dark:text-slate-300 text-base font-normaltext-left t px-6 py-4"
-              >
+              <td class="text-slate-700 dark:text-slate-300 text-base font-normaltext-left t px-6 py-4">
                 text-base
               </td>
-              <td
-                class="text-slate-700 dark:text-slate-300 text-base font-normal text-left px-6 py-4"
-              >
+              <td class="text-slate-700 dark:text-slate-300 text-base font-normal text-left px-6 py-4">
                 <div>
                   Cupcake ipsum dolor sit amet fruitcake donut chocolate.
                 </div>
@@ -145,19 +125,13 @@
               </td>
             </tr>
             <tr class="border-b border-slate-100 dark:border-slate-700">
-              <td
-                class="text-slate-600 dark:text-slate-300 text-left px-6 py-4 text-sm font-normal"
-              >
+              <td class="text-slate-600 dark:text-slate-300 text-left px-6 py-4 text-sm font-normal">
                 Body Text
               </td>
-              <td
-                class="text-slate-600 dark:text-slate-300 text-base font-sm font-normal text-left t px-6 py-4"
-              >
+              <td class="text-slate-600 dark:text-slate-300 text-base font-sm font-normal text-left t px-6 py-4">
                 text-sm
               </td>
-              <td
-                class="text-slate-600 dark:text-slate-300 text-sm font-normal text-left px-6 py-4"
-              >
+              <td class="text-slate-600 dark:text-slate-300 text-sm font-normal text-left px-6 py-4">
                 <div>
                   Cupcake ipsum dolor sit amet fruitcake donut chocolate.
                 </div>
@@ -167,19 +141,13 @@
               </td>
             </tr>
             <tr>
-              <td
-                class="text-slate-600 dark:text-slate-300 text-left px-6 py-4 text-xs font-normal"
-              >
+              <td class="text-slate-600 dark:text-slate-300 text-left px-6 py-4 text-xs font-normal">
                 Small Text
               </td>
-              <td
-                class="text-slate-600 dark:text-slate-300 text-base font-xs font-normal text-left t px-6 py-4"
-              >
+              <td class="text-slate-600 dark:text-slate-300 text-base font-xs font-normal text-left t px-6 py-4">
                 text-xs
               </td>
-              <td
-                class="text-slate-600 dark:text-slate-300 text-xs font-normal text-left px-6 py-4"
-              >
+              <td class="text-slate-600 dark:text-slate-300 text-xs font-normal text-left px-6 py-4">
                 <div>
                   Cupcake ipsum dolor sit amet fruitcake donut chocolate.
                 </div>
@@ -274,10 +242,8 @@
             <del>This line of text is meant to be treated as deleted text.</del>
           </p>
           <p class="text-sm font-light text-slate-900 dark:text-slate-300">
-            <router-link to="#" class="underline"
-              >This line of text is meant to be treated as an addition to the
-              document.</router-link
-            >
+            <router-link to="#" class="underline">This line of text is meant to be treated as an addition to the
+              document.</router-link>
           </p>
           <p class="text-sm font-light text-slate-900 dark:text-slate-300">
             <del>This line of text is meant to be treated as deleted text.</del>
@@ -313,16 +279,10 @@
       <Card title="Listing Typography">
         <div class="grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-4">
           <div>
-            <span
-              class="block text-slate-900 dark:text-slate-300 font-medium leading-8 text-base mb-6"
-              >Unorder list.</span
-            >
+            <span class="block text-slate-900 dark:text-slate-300 font-medium leading-8 text-base mb-6">Unorder
+              list.</span>
             <ul class="space-y-3 p-6 rounded-md bg-slate-50 dark:bg-slate-700">
-              <li
-                v-for="(item, i) in lists"
-                :key="i"
-                class="text-sm text-slate-900 dark:text-slate-300"
-              >
+              <li v-for="(item, i) in lists" :key="i" class="text-sm text-slate-900 dark:text-slate-300">
                 Lorem ipsum dolor sit amet.
               </li>
             </ul>
@@ -330,12 +290,8 @@
 
           <div>
             <span
-              class="block text-slate-900 dark:text-slate-300 font-medium leading-8 text-base mb-6"
-              >list-decimal</span
-            >
-            <ol
-              class="space-y-3 p-6 rounded-md bg-slate-50 dark:bg-slate-700 lits-by-numbaring custom-list"
-            >
+              class="block text-slate-900 dark:text-slate-300 font-medium leading-8 text-base mb-6">list-decimal</span>
+            <ol class="space-y-3 p-6 rounded-md bg-slate-50 dark:bg-slate-700 lits-by-numbaring custom-list">
               <li class="text-sm text-slate-900 dark:text-slate-300">
                 <span> Lorem ipsum dolor sit amet.</span>
                 <ol class="lits-by-numbaring">
@@ -358,13 +314,8 @@
           </div>
 
           <div>
-            <span
-              class="block text-slate-900 dark:text-slate-300 font-medium leading-8 text-base mb-6"
-              >Dash list</span
-            >
-            <ul
-              class="space-y-3 p-6 rounded-md bg-slate-50 dark:bg-slate-700 custom-list"
-            >
+            <span class="block text-slate-900 dark:text-slate-300 font-medium leading-8 text-base mb-6">Dash list</span>
+            <ul class="space-y-3 p-6 rounded-md bg-slate-50 dark:bg-slate-700 custom-list">
               <li class="text-sm text-slate-900 dark:text-slate-300">
                 <span class="font-medium"> Lorem ipsum dolor sit amet.</span>
                 <ul class="lits-by-slash">
@@ -386,51 +337,35 @@
             </ul>
           </div>
           <div>
-            <span
-              class="block text-slate-900 dark:text-slate-300 font-medium leading-8 text-base mb-6"
-              >Icon List 1</span
-            >
+            <span class="block text-slate-900 dark:text-slate-300 font-medium leading-8 text-base mb-6">Icon List 1</span>
             <ul class="space-y-3 p-6 rounded-md bg-slate-50 dark:bg-slate-700">
-              <li
-                v-for="(item, i) in lists"
-                :key="i"
-                class="text-sm text-slate-900 dark:text-slate-300 flex space-x-2 items-center rtl:space-x-reverse"
-              >
-                <span><Icon icon="heroicons:chevron-double-right" /></span>
+              <li v-for="(item, i) in lists" :key="i"
+                class="text-sm text-slate-900 dark:text-slate-300 flex space-x-2 items-center rtl:space-x-reverse">
+                <span>
+                  <Icon icon="heroicons:chevron-double-right" />
+                </span>
                 <span>Lorem ipsum dolor sit amet.</span>
               </li>
             </ul>
           </div>
           <div>
-            <span
-              class="block text-slate-900 dark:text-slate-300 font-medium leading-8 text-base mb-6"
-              >Icon List 2</span
-            >
+            <span class="block text-slate-900 dark:text-slate-300 font-medium leading-8 text-base mb-6">Icon List 2</span>
             <ul class="space-y-3 p-6 rounded-md bg-slate-50 dark:bg-slate-700">
-              <li
-                v-for="(item, i) in lists"
-                :key="i"
-                class="text-sm text-slate-900 dark:text-slate-300 flex space-x-2 items-center rtl:space-x-reverse"
-              >
-                <span><Icon icon="heroicons:chevron-right" /></span>
+              <li v-for="(item, i) in lists" :key="i"
+                class="text-sm text-slate-900 dark:text-slate-300 flex space-x-2 items-center rtl:space-x-reverse">
+                <span>
+                  <Icon icon="heroicons:chevron-right" />
+                </span>
                 <span>Lorem ipsum dolor sit amet.</span>
               </li>
             </ul>
           </div>
           <div>
-            <span
-              class="block text-slate-900 dark:text-slate-300 font-medium leading-8 text-base mb-6"
-              >Icon List 3</span
-            >
+            <span class="block text-slate-900 dark:text-slate-300 font-medium leading-8 text-base mb-6">Icon List 3</span>
             <ul class="space-y-3 p-6 rounded-md bg-slate-50 dark:bg-slate-700">
-              <li
-                v-for="(item, i) in lists"
-                :key="i"
-                class="text-sm text-slate-900 dark:text-slate-300 flex space-x-2 items-center rtl:space-x-reverse"
-              >
-                <span
-                  class="h-[6px] w-[6px] bg-slate-900 dark:bg-slate-400 rounded-full inline-block"
-                ></span>
+              <li v-for="(item, i) in lists" :key="i"
+                class="text-sm text-slate-900 dark:text-slate-300 flex space-x-2 items-center rtl:space-x-reverse">
+                <span class="h-[6px] w-[6px] bg-slate-900 dark:bg-slate-400 rounded-full inline-block"></span>
                 <span>Lorem ipsum dolor sit amet.</span>
               </li>
             </ul>
@@ -446,31 +381,21 @@
             laudantium omnis fugit ducimus nulla libero temporibus corrupti non
             voluptatem harum?
 
-            <span class="text-sm text-slate-400 block mt-3"
-              >Dashcode Admin Template</span
-            >
+            <span class="text-sm text-slate-400 block mt-3">MyApp Admin Template</span>
           </blockquote>
-          <blockquote
-            class="border-primary-500 text-right text-slate-900 dark:text-slate-300"
-          >
+          <blockquote class="border-primary-500 text-right text-slate-900 dark:text-slate-300">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus
             laudantium omnis fugit ducimus nulla libero temporibus corrupti non
             voluptatem harum?
 
-            <span class="text-sm text-slate-400 block mt-3"
-              >Dashcode Admin Template</span
-            >
+            <span class="text-sm text-slate-400 block mt-3">MyApp Admin Template</span>
           </blockquote>
-          <blockquote
-            class="border-success-500 text-center text-slate-900 dark:text-slate-300"
-          >
+          <blockquote class="border-success-500 text-center text-slate-900 dark:text-slate-300">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus
             laudantium omnis fugit ducimus nulla libero temporibus corrupti non
             voluptatem harum?
 
-            <span class="text-sm text-slate-400 block mt-3"
-              >Dashcode Admin Template</span
-            >
+            <span class="text-sm text-slate-400 block mt-3">MyApp Admin Template</span>
           </blockquote>
         </div>
       </Card>
